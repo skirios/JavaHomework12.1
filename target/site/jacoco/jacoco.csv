@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+javahomework12,ru.netology.domain,Smartphone,75,16,16,0,3,5,13,3,5,3
+javahomework12,ru.netology.domain,Book,48,43,13,3,2,6,11,5,3,5
+javahomework12,ru.netology.domain,Product,81,60,17,1,1,5,16,5,7,5
+javahomework12,ru.netology.repository,ProductRepository,0,36,0,0,0,8,0,3,0,3
+javahomework12,ru.netology.manager,ProductManager,0,99,0,16,0,26,0,12,0,4
